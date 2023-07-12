@@ -151,8 +151,112 @@
     text-decoration: underline;
 
 }
- /* feature section ended */
+ /* feature section ended */ 
 
+ /* hot sale section */
+
+ .sale-sec{
+    margin-top: 100px;
+    width: auto;
+    height: 500px;
+    background-color: rgba(229, 84, 115, 0.05);
+    display: flex;
+    justify-content: center;
+}
+
+.sale-content{
+    text-align: center;
+    margin-right: 200px;
+
+}
+ .title-sale{
+    color: #272727;
+    font-family: Lato;
+    font-size: 30px;
+    font-weight: 800;
+    margin-top: 150px;
+    text-align: center;
+    margin-bottom: 25px;
+
+ }
+ .sale-paragraph {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 25px;
+    
+    
+}
+
+.sale-button{
+    padding: 10px 20px;
+    border: 0;
+    border-radius: 8px;
+    background: #E55473;
+    color: white;
+    font-weight: 700;
+    font-family: Lato;
+    font-size: 21px;
+    margin-left: 10px;
+    margin-top: 25px;
+}
+.sale-button:hover{
+    background-color: blueviolet;
+    letter-spacing: 2px;
+
+}
+.image sale{
+    width: 260px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: 150px;
+}
+/* sale ended */
+
+.insatgram-sec{
+    margin: 150px 100px 25px 150px;
+    width: 1200px;
+    height: 580px;
+    text-align: center;
+
+}
+.insta title{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 25px;
+
+}
+
+.instagram-para{
+    
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 25px;
+    
+
+}
+.instgram-pictures{
+    
+    display: flex;
+    justify-content: space-around;
+    padding: 0px 10px;
+
+}
+
+.picture{
+    width: 280px;
+    height: 350px;
+}
+/* instagram section end here */
 
 
 
