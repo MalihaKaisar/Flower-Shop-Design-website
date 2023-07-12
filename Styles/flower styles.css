@@ -258,7 +258,96 @@
 }
 /* instagram section end here */
 
+/* deals section here */
+.coupon-deal{
+    border: 1px solid #FDCEDF;
+    margin: 150px 100px 25px 150px;
+    width: 1200px;
+    height: 380px;  
+    /* background-image: url(); */
+    background-color: navajowhite;
+    background-position: center;
+    background-size: cover;
+}
+.deal-title-coupon{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 100px;
+    margin-bottom: 25px;
+}
 
+.coupon-deal-paragraph{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+
+.deal-coupon-form{
+    margin-top: 25px;
+    margin-left: 280px;
+
+}
+
+.deal-coupon-form #email{
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+    width: 450px;
+    height: 33px;
+    padding: 5px 10px;
+
+}
+.deal-coupon-form #submit{
+    width: 150px;
+    height: 42px;
+    background-color: #E55473;
+    color: white;
+    font-weight: 600;
+    font-family: Lato;
+    border: 1px solid transparent;
+    font-size: 20px;
+    letter-spacing: 2px;
+    border-radius: 5px;
+
+}
+
+/* deals section ended here */
+
+/* extra section */
+
+.review{
+    border: 1px solid #FDCEDF;
+    margin: 150px 100px 25px 150px;
+    width: 1200px;
+    height: 380px;  
+    background-color:pink;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+.review-header{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 100px;
+    margin-bottom: 25px;
+}
+.review-para{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
 
 
 /* footer section */
@@ -267,6 +356,7 @@
     width: 100%;
     height: 800px;
     display: flex;
+   
 
 }
 
